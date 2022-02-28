@@ -1,8 +1,8 @@
-Welcome to my Github account! 😊
-- 👋 Hello, I’m @JustRedneval 💜
-- 👀 I’m interested in architecture 📐 and coding 💻
-- 🌱 I’m currently learning Javascript and Python as a student
-- 💞️ I’m looking to collaborate on coding
+✨ Welcome to my Github account! 😊 ✨
+-  ❤️ Hello, I’m @JustRedneval💜 (Redneval is Lavender backwards)
+-  💛 I’m interested in architecture 📐 and coding 💻
+-  💚 I’m currently learning Javascript and Python as a student
+-  💙 I’m looking to collaborate on coding
 
 <!---
 JustRedneval/JustRedneval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
